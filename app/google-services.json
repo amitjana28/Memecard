@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "798870916294",
+    "project_id": "memecard-d3a47",
+    "storage_bucket": "memecard-d3a47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798870916294:android:1dc9696e09393b6aa41bc7",
+        "android_client_info": {
+          "package_name": "com.example.android.memecard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798870916294-vflkroqh6f4pk2udu0956rl6sub8adgo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbIozy6un1E1VtA-WVXLedBqyNOeb6oyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "798870916294-vflkroqh6f4pk2udu0956rl6sub8adgo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
